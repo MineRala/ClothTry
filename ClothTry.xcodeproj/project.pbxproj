@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E8D70E652D3864DC008E3E1F /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = E8D70E642D3864DC008E3E1F /* SnapKit */; };
+		E8EE579D2D397A0200DB0A9E /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = E8EE579C2D397A0200DB0A9E /* SnapKit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,7 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8D70E652D3864DC008E3E1F /* SnapKit in Frameworks */,
+				E8EE579D2D397A0200DB0A9E /* SnapKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 			);
 			name = ClothTry;
 			packageProductDependencies = (
-				E8D70E642D3864DC008E3E1F /* SnapKit */,
+				E8EE579C2D397A0200DB0A9E /* SnapKit */,
 			);
 			productName = ClothTry;
 			productReference = E8D70C0A2D37FF0F008E3E1F /* ClothTry.app */;
@@ -115,7 +115,7 @@
 			mainGroup = E8D70C012D37FF0F008E3E1F;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				E8D70E632D3864DC008E3E1F /* XCRemoteSwiftPackageReference "SnapKit" */,
+				E8EE579B2D397A0200DB0A9E /* XCRemoteSwiftPackageReference "SnapKit" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = E8D70C0B2D37FF0F008E3E1F /* Products */;
@@ -351,7 +351,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		E8D70E632D3864DC008E3E1F /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+		E8EE579B2D397A0200DB0A9E /* XCRemoteSwiftPackageReference "SnapKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/SnapKit/SnapKit.git";
 			requirement = {
@@ -362,9 +362,9 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		E8D70E642D3864DC008E3E1F /* SnapKit */ = {
+		E8EE579C2D397A0200DB0A9E /* SnapKit */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = E8D70E632D3864DC008E3E1F /* XCRemoteSwiftPackageReference "SnapKit" */;
+			package = E8EE579B2D397A0200DB0A9E /* XCRemoteSwiftPackageReference "SnapKit" */;
 			productName = SnapKit;
 		};
 /* End XCSwiftPackageProductDependency section */
